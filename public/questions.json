@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "text": "What is your favorite color?",
+      "options": ["Red", "Blue", "Green", "Yellow"]
+    },
+    {
+      "id": 2,
+      "text": "What is your preferred mode of transportation?",
+      "options": ["Car", "Bike", "Bus", "Train"]
+    }
+  ]
