@@ -1,4 +1,7 @@
-[
+{
+  "next":"Next",
+  "export_csv":"Export CSV",
+  "questions":[
     {
       "id": 1,
       "text": "What is your favorite color?",
@@ -10,3 +13,4 @@
       "options": ["Car", "Bike", "Bus", "Train"]
     }
   ]
+}
