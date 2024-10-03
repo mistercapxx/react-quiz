@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-quiz/static/css/main.31d6cfe0.css",
+    "main.js": "/redux-quiz/static/js/main.4ab38015.js",
+    "index.html": "/redux-quiz/index.html",
+    "static/media/getFetch.cjs": "/redux-quiz/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.4ab38015.js.map": "/redux-quiz/static/js/main.4ab38015.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4ab38015.js"
+  ]
+}
