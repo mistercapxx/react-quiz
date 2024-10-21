@@ -29,7 +29,7 @@ const Question: React.FC = () => {
   }, [question,t]);
 
   if (!question) {
-    return <div>{t('loading')}</div>; 
+    return <div>wweklnd</div>; 
   }
 
   const handleOptionChange = (option: string) => {
@@ -65,6 +65,7 @@ const Question: React.FC = () => {
 
       <div style={styles.questionInfo}>
         <h2 style={styles.questionTitle}>
+
         {t(`questions.${question.id}.text`).split(" ").map((word, index) =>
   word === highlightedWord ? (
     <span key={index} style={styles.highlight}>{word} </span>
