@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/redux-quiz/static/css/main.31d6cfe0.css",
-    "main.js": "/redux-quiz/static/js/main.04ac992e.js",
+    "main.js": "/redux-quiz/static/js/main.74345430.js",
+    "static/media/csv-icon-1791x2048-ot22nr8i.png": "/redux-quiz/static/media/csv-icon-1791x2048-ot22nr8i.3db26a3f4ca7197f3279.png",
     "index.html": "/redux-quiz/index.html",
-    "static/media/getFetch.cjs": "/redux-quiz/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.04ac992e.js.map": "/redux-quiz/static/js/main.04ac992e.js.map"
+    "main.74345430.js.map": "/redux-quiz/static/js/main.74345430.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.04ac992e.js"
+    "static/js/main.74345430.js"
   ]
 }
